@@ -138,7 +138,7 @@ values from each feature map.
 
 Losses
 
-![Losses](assets/losses.jpg)
+![Losses](assets/Graphs.png)
 
 ## Conclusion
 
