@@ -136,9 +136,9 @@ values from each feature map.
 
 - The final output of the model is a tuple containing the classification probabilities and the predicted bounding box coordinates.
 
+Losses
 
-
-
+![Losses](assets/losses.jpg)
 
 ## Conclusion
 
