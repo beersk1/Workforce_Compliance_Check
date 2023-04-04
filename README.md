@@ -168,8 +168,7 @@ challenging and affect the quality of the annotations.
 
 ## Explore the notebook
 
-To explore the notebook file [here](https://nbviewer.org/github/semasuka/Credit-card-approval-prediction-classification/blob/main/Credit_card_approval_prediction.ipynb)
-
+To explore the notebook file [here](https://nbviewer.org/github.com/beersk1/Workforce_Compliance_Check/blob/main/Object_detection_Deep_Learning_CVA_Project.ipynb)
 
 
 ## Contribution
